@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vaadin:flow-server:2.5.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ops/apache-maven-3.6.3-bin/repository/com/vaadin/flow-server/2.5.3/flow-server-2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../ops/apache-maven-3.6.3-bin/repository/com/vaadin/flow-server/2.5.3/flow-server-2.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../ops/apache-maven-3.6.3-bin/repository/com/vaadin/flow-server/2.5.3/flow-server-2.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
